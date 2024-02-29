@@ -25,7 +25,7 @@ const StyledHeader = styled.header`
   }
   button {
     padding: 0.5rem 1rem;
-    background-color: #e50914;
+    background-color: orange;
     border: none;
     cursor: pointer;
     color: white;
